@@ -21,7 +21,7 @@ const ContactForm = () => {
 
   }
   
-  
+
   return (
     <div>
       <section className={styles.container}>
