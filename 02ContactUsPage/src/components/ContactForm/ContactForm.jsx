@@ -7,7 +7,7 @@ import { HiMail } from "react-icons/hi";
 import { useState } from "react";
 
 const ContactForm = () => {
-
+  
   const [name, setName] = useState("Dhruv");
   const [email, setEmail] = useState("dhruv@gmail.com");
   const [text, setText] = useState("demo project for learning useState");
